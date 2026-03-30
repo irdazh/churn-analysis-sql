@@ -22,13 +22,14 @@ This project aims to answer:
 
 # Dataset
 
-The dataset contains customer-level information from a telecom subscription business, including:
+The dataset used was downloaded from [kaggle dataset](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset) which contains customer-level information from a telecom subscription business, including:
 
 * Customer demographics
 * Account information (tenure, contract type)
 * Service usage (internet service, support)
 * Billing information (monthly charges)
 * Churn status (Yes/No)
+
 
 ---
 
