@@ -57,10 +57,17 @@ The dataset used was downloaded from [kaggle dataset](https://www.kaggle.com/dat
 Key analyses performed:
 
 * Overall churn rate
-* Churn by tenure group
+* Churn by tenure group  
 * Churn by contract type
 * Churn by monthly charges
 * Customer segmentation using multiple variables (contract and internet service)
+
+### 2B. EDA Sample Results
+* Churn by monthly charges
+    ![Churn by monthly charges](images/churn_charges_1.png)
+    ![Churn by monthly charges](images/churn_charges_2.png)
+* Customer segmentation
+    ![Cust segmentation](images/customer_segmentation.png)
 
 ---
 
